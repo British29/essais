@@ -1,0 +1,59 @@
+<!DOCTNYPE html>
+<html>
+<head
+	<meta charset="utf-8">
+
+    <meta name="viewport" content="width-device-width, intinial-scale:1">
+    <link rel="stylesheet" type="text/css" href="CSS/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="Style.css">
+	<title> TrouverUneMaison </title>
+</head>
+<body>
+
+<center>
+	
+ <header>
+ 	<address>
+ <h2>Trouver une maison en clic </h2> Nous sommes situé: Immeuble Carbone, Suite 900 <br>
+  Cocody, Rue boulvard Mitterand <br>
+  <abbr title="Phone">P:</abbr> (+225) 78494985
+</address>	
+ </header>
+
+
+ <section>
+	
+	<table width="5" height="5" >
+ 		<tr> 
+
+	  <td width="0" height="0"> <img src="1557278467-9129-full_size-t1571293306.jpg" width="507" height="400"></a><br>
+	  </td>
+	 
+	</table>
+	    </tr>
+
+ </section>
+
+
+ <footer>
+ 	<table width="5" height="5">
+ 		<tr>
+	Disponible sur <td width="5" height="5"> <a href="www.facebook.com/chercherunemaison"><img src="facebook.png" width="30" height="20"></a> <br>
+		         </td>
+	<td width="5" height="5"> <a href="www.facebook.com/chercherunemaison"><img src="instagram.jpg" width="30" height="20"></a> <br>
+		         </td>
+    <td width="5" height="5"> <a href="www.facebook.com/chercherunemaison"><img src="tweeter.png" width="30" height="20"></a> <br>
+		         </td>
+	</table>
+	  </tr>
+
+<tr> 
+ Régoingnez-nous sur notre site pour plus d'information sur <a href="www.Troverunemaison.ci">Trouverunemaison.ci</a><br>
+
+	</tr>
+ </footer>
+</center>
+
+
+</body>
+</html>
